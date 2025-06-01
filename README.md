@@ -38,7 +38,7 @@ A location-based app using the Foursquare API to discover places near the user.
 ## 📫 Contact
 
 - 📧 Email: amirhosseinzamani454@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile)](http://linkedin.com/in/amir-hosein-zamani-110938246
+- 💼 LinkedIn: (http://linkedin.com/in/amir-hosein-zamani-110938246](http://linkedin.com/in/amir-hosein-zamani-110938246)
 
 ---
 
