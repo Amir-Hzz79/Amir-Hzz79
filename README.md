@@ -3,7 +3,7 @@
 💻 Software Developer with a focus on **Flutter** for mobile apps and **.NET** for backend services  
 🛠 Passionate about building useful, real-world applications  
 📍 Based in Isfahan, Iran
-## [➡️ View My Interactive Resume Here!]([https://your-username.github.io/resume-repo/](https://amir-hzz79.github.io/my-resume/))
+## [View My Interactive Resume Here!](https://amir-hzz79.github.io/my-resume/)
 ---
 
 ## 🛠 Tech Stack
